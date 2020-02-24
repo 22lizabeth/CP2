@@ -1,1 +1,74 @@
+.col-sm {
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+    text-align: center;
+}
 
+.btn-primary,
+.btn-primary:visited,
+.btn-primary:link:visited,
+.btn-primary:link {
+    background-color: rgb(101, 145, 165);
+    border-color: #0000;
+}
+
+.btn-primary:hover,
+.btn-primary:visited:hover,
+.btn-primary:visited:active,
+.btn-primary:active,
+.btn-primary:visited:focus,
+.btn-primary:focus {
+    background-color: rgb(116, 167, 190);
+    border-color: #0000;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h1 {
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.conatiner {
+    padding-bottom: 20px;
+}
+
+.container img {
+    padding-top: 10px;
+    width: 400px;
+    height: 250px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.pageWrapper {
+    display:flex;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+
+.formsWrapper {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+}
+
+.formsWrapper img {
+    height: 200px;
+    max-width: 100%;
+    object-fit:cover;
+}
+
+.form-1 {
+    padding-bottom: 30px;
+}

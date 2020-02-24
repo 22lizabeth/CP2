@@ -42,6 +42,7 @@ h2 {
 
 .container img {
     padding-top: 10px;
+    padding-bottom: 40px;
     width: 400px;
     height: 250px;
     max-width: 100%;
